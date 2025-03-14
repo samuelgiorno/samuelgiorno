@@ -79,11 +79,6 @@ Feel free to connect with me @samuelgiorno for all things tech or just to say he
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-## Hi there 👋
-
 <!--
 **samuelgiorno/samuelgiorno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
